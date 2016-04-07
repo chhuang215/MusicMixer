@@ -16,6 +16,7 @@ Template.playground.helpers({
     return soundfiles;
   },
 
+
   "sound": function (soundId) {
      var soundIsOn = Session.get('sound'+soundId);
      var masterspeed = Session.get('masterspeed');
