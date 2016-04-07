@@ -1,1 +1,1 @@
-Published at musicmixer.meteor.com.
+Published at http://musicmixer.herokuapp.com/
